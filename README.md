@@ -3,11 +3,11 @@
 This repository provides the official implementation of our SequenceSync-GAN paper submitted the Expert Systems With Applications Journal titled:<br/>  _**"SequenceSync-GAN: Preserving Temporal Sequential Consistency in Unsupervised Image-to-Image Translation For Cross-domain CHF Detection"**_
 
 ## Paper
-[**Coming Soon**]  <! ––(https://www.sciencedirect.com/science/article/abs/pii/S0952197623014392) -->
+[**Coming Soon**]  <!--(https://www.sciencedirect.com/science/article/abs/pii/S0952197623014392)-->
 
-[Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>,[Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, [Teresa Wu]<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup>, [Ying Sun]<sup>3</sup><br/>
+[Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>, [Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, Abhidnya Patharkar<sup>1</sup>, Teresa Wu<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup><br/>
 
-<sup>1</sup>Arizona State University; <sup>2</sup>University of Arkansas; <sup>3</sup>University of Cincinnati<br/>
+<sup>1</sup>Arizona State University; <sup>2</sup>University of Arkansas<br/>
 
 ## Abstract
 
