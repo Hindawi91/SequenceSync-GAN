@@ -89,7 +89,10 @@ $ python test.py
   <li>In the “test_DS_on_DS.py” file, change the “dataset” variable to the source DS directory, then run the Python script. Then, run the Python script to test the saved model on the source dataset for sanity check.</li>
 </ol>
 
-
+```bash
+$ cd base_classifier_training
+$ python DS_CNN_Training.py
+```
 
 
 
