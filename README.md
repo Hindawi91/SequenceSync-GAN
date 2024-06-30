@@ -90,7 +90,7 @@ $ python test.py
 </ol>
 
 ```bash
-$ cd base_classifier_training
+$ cd base_classifier_training/
 $ python DS_CNN_Training.py
 ```
 
