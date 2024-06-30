@@ -2,7 +2,7 @@
 
 This repository provides the official implementation of our SequenceSync-GAN paper submitted the Expert Systems With Applications Journal titled:<br/>  _**"SequenceSync-GAN: Preserving Temporal Sequential Consistency in Unsupervised Image-to-Image Translation For Cross-domain CHF Detection"**_
 
-![sequencesync-gan](https://github.com/Hindawi91/SequenceSync-GAN/assets/38744510/da24500d-a688-4f1f-a533-496d9777d149)
+![sequencesync-gan](https://github.com/Hindawi91/SequenceSync-GAN/assets/38744510/2951b573-7eb5-47b2-a1f7-d14feef85cfa)
 
 ## Paper
 
