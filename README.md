@@ -13,7 +13,12 @@ This repository provides the official implementation of our SequenceSync-GAN pap
 
 Boiling crisis, or critical heat flux (CHF), is a major issue in thermal engineering. It occurs when the heat transfer from a heated surface to a boiling liquid suddenly drops, causing a rapid increase in surface temperature potentially leading to severe failures like thermal breakdowns in semiconductors or meltdowns in nuclear reactors. Accurate, non-intrusive detection of CHF from boiling images is essential for the safe operation and effective design of heat exchangers. Most previous machine learning efforts have focused on detecting CHF within the same experimental setup or domain. Detecting out-of-distribution (OOD) CHF is challenging as models must generalize beyond their training conditions to recognize variations in materials, configurations, and environments. Existing computer vision works addressing OOD CHF detection, which utilizes off-the-shelf unsupervised image-to-image translation (UI2I) models, have shown limitations in preserving class consistency during translation due to a lack of class annotations during training, resulting in poor cross-domain classification performance. To address this, we introduce SequenceSync-GAN, a novel UI2I translation framework that encourages accurate class translations across domains by preserving temporal sequential consistency. To achieve this. SequenceSync-GAN introduces several novel contributions including 1) an innovative data loading approach that incorporates temporal factors in a simplified way contrary to previous complicated and computationally expensive methods, 2) a new level of annotation (sequential annotation) that smartly captures the temporal factor, 3) a new discriminator architecture that enables temporal sequential discrimination, and 4) two loss functions that capitalize on the sequential annotation to enforce temporal sequential consistency and overall cross-domain classification performance. SequenceSync-GAN is evaluated using two boiling image datasets against state-of-the-art UI2I translation models, demonstrating its efficacy in addressing the challenges of OOD CHF detection and showcasing its potential for practical application in thermal engineering and other cross-domain applications.
 
+### Clone Repository
 
+```bash
+$ git clone https://github.com/Hindawi91/SequenceSync-GAN.git
+$ cd SequenceSync-GAN/
+```
 
 ### 3. Data preparation
 
@@ -52,7 +57,10 @@ The folder structure should be as follows:
 
 ### SequenceSync-GAN Training
 
-bash train.sh
+```bash
+$ bash train.sh
+```
+
 
 ### CNN Base Classifier Training:
 
