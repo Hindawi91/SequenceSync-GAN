@@ -57,10 +57,27 @@ The folder structure should be as follows:
 
 ### SequenceSync-GAN Training
 
+Start Training:
+
 ```bash
-$ bash train.sh
+$ bash run.sh
 ```
 
+### SequenceSync-GAN Validation
+
+Once Training is done, you need to generate results from each checkpoint model saved
+
+```bash
+$ python test.py
+```
+
+### SequenceSync-GAN Validation
+
+Once validation is done, you need to test cross domain classification from each checkpoint model (Assuming you already have a pre-trained classifier on domain A, other wise go to the CNN Base Classifier Training step below): 
+
+```python
+$ bash val.sh
+```
 
 ### CNN Base Classifier Training:
 
