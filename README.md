@@ -1,8 +1,11 @@
-# SequenceSync-GAN (Paper Coming Soon)
+![sequencesync-gan](https://github.com/Hindawi91/SequenceSync-GAN/assets/38744510/da24500d-a688-4f1f-a533-496d9777d149)# SequenceSync-GAN (Paper Coming Soon)
 
 This repository provides the official implementation of our SequenceSync-GAN paper submitted the Expert Systems With Applications Journal titled:<br/>  _**"SequenceSync-GAN: Preserving Temporal Sequential Consistency in Unsupervised Image-to-Image Translation For Cross-domain CHF Detection"**_
 
+![Uploading sequencesync-gan.gif…]()
+
 ## Paper
+
 [**Coming Soon**]  <!--(https://www.sciencedirect.com/science/article/abs/pii/S0952197623014392)-->
 
 [Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>, [Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, Abhidnya Patharkar<sup>1</sup>, Teresa Wu<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup><br/>
