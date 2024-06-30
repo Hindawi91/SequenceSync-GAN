@@ -24,7 +24,13 @@ Boiling crisis, or critical heat flux (CHF), is a major issue in thermal enginee
 
 ### 3. Data preparation
 
-The folder structure should be as follows (assuming your dataset name is MedicalData):
+#### 3.1 Replicate Our Experiments:
+
+Donwlaod the dataset (here) and replace it with the same data folder structure as seen below.
+
+#### 3.2 Train using your data:
+
+The folder structure should be as follows:
 
 ```python
 ├─data/ # data root
