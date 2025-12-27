@@ -124,7 +124,7 @@ If you use this code, please cite our paper:
   title={Sequence-Sync-GAN: Preserving Temporal Sequential Consistency in UI2I Translation For Cross-domain CHF Detection},
   author={Al-Hindawi, Firas and Siddiquee, Md Mahfuzur Rahman and Wu, Teresa and Patharkar, Abhidnya and Hu, Han },
   note = {Manuscript under review},
-  year = {2024}
+  year = {2026}
 }
 ```
 
