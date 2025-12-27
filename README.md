@@ -1,6 +1,6 @@
 # SequenceSync-GAN (Paper Coming Soon)
 
-This repository provides the official implementation of our SequenceSync-GAN paper submitted to the Expert Systems With Applications Journal titled:<br/>  _**"SequenceSync-GAN: Preserving Temporal Sequential Consistency in Unsupervised Image-to-Image Translation For Cross-domain CHF Detection"**_
+This repository provides the official implementation of our SequenceSync-GAN paper titled:<br/>  _**"SequenceSync-GAN: Preserving Temporal Sequential Consistency in Unsupervised Image-to-Image Translation For Cross-domain CHF Detection"**_
 
 ![sequencesync-gan](https://github.com/Hindawi91/SequenceSync-GAN/assets/38744510/2951b573-7eb5-47b2-a1f7-d14feef85cfa)
 
@@ -8,9 +8,9 @@ This repository provides the official implementation of our SequenceSync-GAN pap
 
 [**Coming Soon**]  <!--(https://www.sciencedirect.com/science/article/abs/pii/S0952197623014392)-->
 
-[Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>, [Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>1</sup>, Abhidnya Patharkar<sup>1</sup>, Teresa Wu<sup>1</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>2</sup><br/>
+[Firas Al-Hindawi](https://firashindawi.com)<sup>1</sup>, [Md Mahfuzur Rahman Siddiquee](https://github.com/mahfuzmohammad)<sup>2</sup>, Abhidnya Patharkar<sup>2</sup>, JiaJing Huang<sup>2</sup>, Teresa Wu<sup>2</sup>, [Han Hu](https://scholar.google.com/citations?user=5RgSI9EAAAAJ&hl=en)<sup>3</sup><br/>
 
-<sup>1</sup>Arizona State University; <sup>2</sup>University of Arkansas<br/>
+<sup>1</sup>King Fahd University of Petroleum & Minerals (KFUPM);<sup>2</sup>Arizona State University; <sup>3</sup>University of Arkansas<br/>
 
 ## Abstract
 
