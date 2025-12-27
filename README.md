@@ -115,7 +115,18 @@ Once validation is done, you need to test cross domain classification from each 
 $ python test.py
 ```
 
+## Citation
 
+If you use this code, please cite our paper:
+
+```bibtex
+@unpublished{SequencSync,
+  title={Sequence-Sync-GAN: Preserving Temporal Sequential Consistency in UI2I Translation For Cross-domain CHF Detection},
+  author={Al-Hindawi, Firas and Siddiquee, Md Mahfuzur Rahman and Wu, Teresa and Patharkar, Abhidnya and Hu, Han },
+  note = {Manuscript under review},
+  year = {2024}
+}
+```
 
 
 
